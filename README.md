@@ -1,3 +1,4 @@
+![logo](https://github.com/Akritiknp1907/Akritiknp1907/blob/main/mygit.gif)
 <h1 align="center">Hi 👋, I'm Akriti Srivastava</h1>
 <h3 align="center">Building my own path in tech—brick by brick, byte by byte</h3>
 
